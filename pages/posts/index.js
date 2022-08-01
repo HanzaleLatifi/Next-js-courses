@@ -1,8 +1,8 @@
 
-function index() {
+function PostList() {
   return (
     <div>postPgaes</div>
   )
 }
 
-export default index
+export default PostList
